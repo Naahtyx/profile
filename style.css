@@ -1,0 +1,16 @@
+body {
+color: #9e6d4e;
+background-color: #c1c0ae;
+
+}
+
+a {
+color: #9e6d4e;
+text-decoration: none;
+}
+
+p {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 20px;
+}
