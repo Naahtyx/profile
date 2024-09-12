@@ -1,0 +1,21 @@
+body {
+color: #9e6d4e;
+background-color: #b0c1ae;
+
+}
+
+img {
+    padding: 40px;
+}
+
+a {
+color: #9e6d4e;
+text-decoration: none;
+}
+
+p {
+    display: flex;
+    justify-content: flex-end;
+    align-items: ; 
+
+}
